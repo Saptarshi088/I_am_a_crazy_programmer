@@ -1,0 +1,17 @@
+Vectors:
+
+template <class T> - Can pass any data-type of Vector while on a Function.
+
+vector<data-type> NAME
+vector.push_back() - it is like list.append() in Python. Adds values at the end of the Vector
+vector.pop_back() - it is like list.pop() in Python. Removs elements from the end of the Vector.
+vector.size() - tells the size of the vector.
+vector.begin() - Tells the position of the iterator that is at the begining.
+vector.end() - tells the position of the iterator that is at the end of the Vector.
+vector.size() - Tells the Maximum Size of the Vector.
+vector.at(i) - displays the data that is at the ith position of the Vector.
+vector.insert(position, Value) - Inserts the value to the positon. 
+vector<data-type> :: iterator iter = vector.begin() - Iterator for the insert() operator.
+template <class T>
+
+Ref: https://cplusplus.com/reference/vector/vector/
