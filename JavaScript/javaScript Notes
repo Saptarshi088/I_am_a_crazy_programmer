@@ -1,0 +1,10 @@
+1. Variables: 
+There are three types of variables in javaScript- let, const, var.
+  the only different one is const - that is we always have to decleare the variable and make initialize the variable with a value.
+
+
+2. DataTypes:
+ Strings, Numbers, Boolean, null, undefined.
+ numbers include integers, float, double.
+ methods: typeof(variable) - shows the datatype of the Variable.
+          
